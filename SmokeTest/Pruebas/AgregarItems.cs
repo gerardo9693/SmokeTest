@@ -9,7 +9,6 @@ namespace SmokeTest.Pruebas
     [TestFixture]
     public class AgregarItems : PruebaBase
     {
-
         /// <summary>
         /// Variable estatica para formar el htmlreporter
         /// </summary>
